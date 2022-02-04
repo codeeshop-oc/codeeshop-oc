@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @codeeshop-oc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/codeeshop-oc/github-stats">
 
-<!---
-codeeshop-oc/codeeshop-oc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github.com/codeeshop-oc/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/codeeshop-oc/github-stats/blob/master/generated/languages.svg)
+
+</a>
